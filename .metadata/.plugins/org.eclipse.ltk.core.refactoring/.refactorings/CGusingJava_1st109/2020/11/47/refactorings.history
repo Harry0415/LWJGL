@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Prog5_2_AWT_animation.java&apos; to &apos;ch5_textures.Prog5_2_AWT_animation.java&apos;&#x0D;&#x0A;- Original project: &apos;CGusingJava_1st109&apos;&#x0D;&#x0A;- Destination element: &apos;ch5_textures.Prog5_2_AWT_animation.java&apos;&#x0D;&#x0A;- Original element: &apos;ch5_textures.Prog5_2_AWT_animation.java&apos;" description="Copy compilation unit" destination="/src&lt;ch5_textures{Prog5_2_AWT_animation.java" element1="/src&lt;ch5_textures{Prog5_2_AWT_animation.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1605792818326" units="1" version="1.0"/>
+</session>

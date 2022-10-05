@@ -1,0 +1,25 @@
+1607587102337	Delete elements
+1607588210933	Copy package
+1607588215175	Delete elements
+1607588232181	Rename type 'Code'
+1607588244786	Rename type 'Code'
+1607588257206	Rename type 'Code'
+1607588279030	Rename resource 'fragShader.glsl'
+1607588286269	Rename resource 'vertShader.glsl'
+1607588302977	Rename resource 'fragShader.glsl'
+1607588312310	Rename resource 'vertShader.glsl'
+1607588327702	Rename resource 'fragShader.glsl'
+1607588336421	Rename resource 'vertShader.glsl'
+1607588528555	Rename package 'ch7_lighting.copy'
+1607589605659	Copy compilation unit
+1607589786658	Rename type 'Prog7_1_gouraud'
+1607590776275	Copy compilation unit
+1607590873943	Rename type 'Prog7_2_phong'
+1607590879110	Rename type 'Prog7_3_blinnPhong'
+1607591831628	Rename package 'Chapter_08_shadow'
+1607591836876	Rename package 'ch08_shadow'
+1607591853883	Rename type 'Code'
+1607591895763	Rename resource 'frag1shader.glsl'
+1607591902688	Rename resource 'frag2shader.glsl'
+1607591915563	Rename resource 'vert1shader.glsl'
+1607591920464	Rename resource 'vert2shader.glsl'

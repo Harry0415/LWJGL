@@ -1,0 +1,18 @@
+1604562748002	Copy package
+1604562755791	Rename package 'ch4_manage3d_graphics_data.copy'
+1604562774669	Rename package 'ch5'
+1604562779113	Delete elements
+1604562847842	Rename type 'Code'
+1604562870487	Rename resource 'vert.shader'
+1604562879857	Rename resource 'vertShader4Prog5_1'
+1604562888730	Rename resource 'frag.shader'
+1604563169201	Move file
+1604563193963	Delete element
+1604563799476	Rename type 'Code'
+1604563827087	Rename resource 'frag.shader'
+1604563832993	Rename resource 'vert.shader'
+1604564380728	Copy compilation unit
+1604564394797	Rename type 'Prog5_1_texturedPyramid'
+1604565667925	Copy compilation unit
+1604565676982	Rename type 'Prog5_2_AWT'
+1604565682760	Rename type 'Prog5_2_AWT_Animation'

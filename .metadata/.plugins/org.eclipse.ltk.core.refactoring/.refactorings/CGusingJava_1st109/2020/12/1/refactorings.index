@@ -1,0 +1,16 @@
+1609401148137	Rename type 'Code'
+1609401177193	Rename resource 'vert2shader.glsl'
+1609401185201	Rename resource 'vert1shader.glsl'
+1609401197418	Rename resource 'frag2shader.glsl'
+1609401202948	Rename resource 'frag1shader.glsl'
+1609401560463	Rename resource 'pyr.obj'
+1609401577455	Rename resource 'pyr01.obj'
+1609401588360	Rename resource 'pyr.obj'
+1609401635502	Delete element
+1609401643179	Rename resource 'pyrFor8_1.obj'
+1609405687332	Copy compilation unit
+1609406392439	Rename type 'Prog8_2_softShadowsPCF_WithMouseMove'
+1609406450966	Move compilation unit
+1609406465895	Rename type 'Prog8_2_softShadowsPCF'
+1609407900159	Move compilation unit
+1609407902912	Delete element

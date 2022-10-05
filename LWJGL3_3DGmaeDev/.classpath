@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="E:/Software/Eclipse/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.113.0.v20191204-0601.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Software/Eclipse/eclipse/plugins/org.eclipse.swt_3.113.0.v20191204-0601.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/JOGL"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/JOML"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Libs_OpenGL"/>
+	<classpathentry kind="lib" path="E:/SHU/10901/Computer Graphics/workspace/Prgm4OpenGL/JOML/joml-1.9.25.jar"/>
+	<classpathentry kind="lib" path="E:/SHU/10901/Computer Graphics/workspace/Prgm4OpenGL/JOML/joml-1.9.25-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/LWJGL3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
