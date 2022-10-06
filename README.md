@@ -1,3 +1,3 @@
 # LWJGL
 
-To know how to implement this project, please refer [fp.ppt].
+To know how to implement this project, please refer [fp.pptx].
